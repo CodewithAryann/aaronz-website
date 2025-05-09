@@ -1377,6 +1377,9 @@ header {
   .gradient-line {
     width: 200px; 
 }
+.section-line{
+  width: 176px;
+}
 }
 
 /* Medium screens (md) */
