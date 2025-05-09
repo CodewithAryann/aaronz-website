@@ -1027,9 +1027,15 @@ header {
   line-height: 1.6;
 }
 
+.career-section-1{
+  background: white;
+}
+
 .career-section {
   padding: 60px 30px;
   background: linear-gradient(120deg, #00ffde 0%, #ce00ff 100%);
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
 }
 
 .career-content {
