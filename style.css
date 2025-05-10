@@ -1090,6 +1090,7 @@ header {
   color: #fff;
   padding: 40px 20px;
   font-family: Arial, sans-serif;
+  background-image: url(https://www.aaronz.co/wp-content/uploads/2020/02/contact-bg.webp);
 }
 
 .footer-container {
@@ -1099,6 +1100,7 @@ header {
   max-width: 1200px;
   margin: auto;
   gap: 20px;
+  
 }
 
 .footer-section {
@@ -1168,8 +1170,11 @@ header {
   flex-wrap: wrap;
   padding-top: 20px;
   border-top: 1px solid #333;
-  margin-top: 30px;
   text-align: center;
+  background-color: #111;
+  color: #fff;
+  padding: 40px 20px;
+  font-family: Arial, sans-serif;
 }
 
 .footer-bottom-links {
